@@ -1,9 +1,6 @@
 ## Hi, I'm Anthony! 👋 💻
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...My Portfolio and another project
 - 🌱 I’m currently learning ...React.js
 - 🤔 I’m looking for help with ...Enhancing my skills as a full stack developer
